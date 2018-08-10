@@ -1,0 +1,6 @@
+framework module KRIndicatorController {
+  umbrella header "KRIndicatorController-umbrella.h"
+
+  export *
+  module * { export * }
+}

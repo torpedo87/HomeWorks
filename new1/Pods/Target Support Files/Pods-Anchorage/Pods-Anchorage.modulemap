@@ -1,0 +1,6 @@
+framework module Pods_Anchorage {
+  umbrella header "Pods-Anchorage-umbrella.h"
+
+  export *
+  module * { export * }
+}
